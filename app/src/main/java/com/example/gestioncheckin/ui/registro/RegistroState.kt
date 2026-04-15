@@ -1,4 +1,4 @@
-package com.example.gestioncheckin.ui.user
+package com.example.gestioncheckin.ui.registro
 
 sealed class RegistroState{
     data object Idle: RegistroState()
